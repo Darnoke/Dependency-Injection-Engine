@@ -1,4 +1,4 @@
-# DependencyInjectionEngine
+# Dependency Injection Engine
 Basic Dependency Injection engine implementation
 
 Working Functions:
